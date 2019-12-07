@@ -1,6 +1,6 @@
 name: ms_dart
 description: Tiny milisecond conversion utility. Converts milliseconds to a string representation and vice versa.
-version: 1.0.3
+version: 1.0.3-a
 homepage: https://github.com/chrisvasquez/ms_dart
 author: Chris Vasquez <chris@teamvasquez.org>
 
