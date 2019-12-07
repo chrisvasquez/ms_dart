@@ -1,5 +1,5 @@
 name: ms_dart
-description: Tiny milisecond conversion utility. With two static methods.  One converts the number of milliseconds to a string representation rounded to the closes smallest measure of time. The other converts a string representation fo time to the number of milliseconds.
+description: Tiny milisecond conversion utility. Converts milliseconds to a string representation and vice versa.
 version: 1.0.2
 homepage: https://github.com/chrisvasquez/ms_dart
 author: Chris Vasquez <chris@teamvasquez.org>

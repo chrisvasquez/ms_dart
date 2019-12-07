@@ -9,3 +9,7 @@
 ## 1.0.2
 
 - description in pubspec.yaml modified
+
+## 1.0.3
+
+- fix length of description in pubspec.yaml
