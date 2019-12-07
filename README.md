@@ -11,7 +11,7 @@ Add in `pubspec.yaml`
 
 ```yaml
 dependencies:
-  ms_dart: 1.0.3-a
+  ms_dart: 1.0.4
 ```
 
 ## Examples
