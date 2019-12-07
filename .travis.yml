@@ -3,7 +3,7 @@ dart:
   - stable
 
 dart_task:
-  - test: --platform vm,firefox
+  # - test: --platform vm,firefox
   - dartanalyzer: --fatal-infos --fatal-warnings .
 
 matrix:
