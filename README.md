@@ -1,7 +1,7 @@
 # ms_dart
 
 [![Build Status](https://travis-ci.org/chrisvasquez/ms_dart.svg?branch=master)](https://travis-ci.org/chrisvasquez/ms_dart)
-
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/users/chrisvasquez)
 Use this package to easily convert various time formats to milliseconds.
 
 ## Install
