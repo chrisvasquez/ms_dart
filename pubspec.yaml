@@ -1,6 +1,7 @@
 name: ms_dart
-description: A starting point for Dart libraries or applications.
+description: Tiny milisecond conversion utility
 version: 1.0.0
+homepage: https://github.com/chrisvasquez/ms_dart
 author: Chris Vasquez <chris@teamvasquez.org>
 
 environment:
