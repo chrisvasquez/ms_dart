@@ -2,6 +2,15 @@
 
 Use this package to easily convert various time formats to milliseconds.
 
+## Install
+
+Add in `pubspec.yaml`
+
+```yaml
+dependencies:
+  ms_dart: 1.0.1
+```
+
 ## Examples
 
 ```dart
