@@ -5,3 +5,7 @@
 ## 1.0.1
 
 - minor edit
+
+## 1.0.2
+
+- description in pubspec.yaml modified
